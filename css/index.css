@@ -91,10 +91,14 @@ a {
   }
   
   .top-btn{
-    width: 5rem;
-    margin-left: 9.6rem;
-    margin-top: .3rem;
+    width: 4.8rem;
+    margin-top: .4rem;
   }
+
+.top{
+  margin-left: 9.7rem;
+}
+
   .main {
     padding: 0.5rem;
   }
