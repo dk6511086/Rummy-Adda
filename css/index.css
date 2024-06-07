@@ -90,6 +90,11 @@ a {
     background-color: #fff;
   }
   
+  .top-btn{
+    width: 5rem;
+    margin-left: 9.6rem;
+    margin-top: .3rem;
+  }
   .main {
     padding: 0.5rem;
   }
